@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20110822-r5448">
+  <project autorefresh="false" build="classes/" root="source/" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="info/gridworld/gui/WorldFrame.java" package="info.gridworld.gui" timestamp="12-Apr-2013 08:18:36">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="BugRunner.java" package="" timestamp="12-Apr-2013 07:46:31">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/KingCrab.java" package="" timestamp="02-Apr-2013 08:25:32">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="CritterRunner.java" package="" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/SpinnerCritter.java" package="" timestamp="12-Mar-2013 08:50:32">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/BlackPlagueCritterRunner.java" package="" timestamp="12-Mar-2013 08:50:32">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/grid/AbstractGrid.java" package="info.gridworld.grid" timestamp="18-Mar-2013 08:05:43">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/Rock.java" package="info.gridworld.actor" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/PseudoInfiniteViewport.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/MenuMaker.java" package="info.gridworld.gui" timestamp="20-Mar-2013 07:35:53">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/LocationEditor.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/ImageDisplay.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/GridPanel.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/GUIController.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/FormLayout.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/DisplayMap.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/Display.java" package="info.gridworld.gui" timestamp="13-Mar-2013 11:08:33">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/DefaultDisplay.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:21">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/ColorEditor.java" package="info.gridworld.gui" timestamp="20-Mar-2013 07:31:43">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/gui/AbstractDisplay.java" package="info.gridworld.gui" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/grid/UnboundedGrid.java" package="info.gridworld.grid" timestamp="18-Mar-2013 08:05:06">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/grid/Location.java" package="info.gridworld.grid" timestamp="18-Mar-2013 08:05:43">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/grid/Grid.java" package="info.gridworld.grid" timestamp="18-Mar-2013 08:05:43">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/grid/BoundedGrid.java" package="info.gridworld.grid" timestamp="20-Mar-2013 07:42:23">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/Flower.java" package="info.gridworld.actor" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/Critter.java" package="info.gridworld.actor" timestamp="13-Mar-2013 11:05:38">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/Bug.java" package="info.gridworld.actor" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="CrabRunner.java" package="" timestamp="24-Jan-2013 07:36:20">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="BoxBugRunner.java" package="" timestamp="24-Jan-2013 07:36:19">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="BoxBug.java" package="" timestamp="24-Jan-2013 07:36:19">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/ActorWorld.java" package="info.gridworld.actor" timestamp="24-Jan-2013 08:04:39">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/BlackPlagueCritter.java" package="" timestamp="12-Mar-2013 08:50:32">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/AnnoyingCritterRunner.java" package="" timestamp="12-Mar-2013 08:49:40">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/SpinnerCritterRunner.java" package="" timestamp="12-Mar-2013 08:50:32">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/AnnoyingCritter.java" package="" timestamp="01-Apr-2013 08:14:52">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/world/World.java" package="info.gridworld.world" timestamp="01-Apr-2013 08:29:33">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="ChameleonRunner.java" package="" timestamp="01-Apr-2013 08:44:11">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/ChameleonKid.java" package="" timestamp="01-Apr-2013 08:51:34">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/RockHound.java" package="" timestamp="01-Apr-2013 08:59:35">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="ChameleonCritter.java" package="" timestamp="02-Apr-2013 08:04:23">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="CrabCritter.java" package="" timestamp="02-Apr-2013 08:11:13">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/QuickCrab.java" package="" timestamp="02-Apr-2013 08:15:45">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="info/gridworld/actor/Actor.java" package="info.gridworld.actor" timestamp="02-Apr-2013 08:23:39">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+      <file name="Exercises/BlusterCritter.java" package="" timestamp="08-Apr-2013 08:48:09">
+        <select from="3362" to="3362"/>
+        <scroll column="1751" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
